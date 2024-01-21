@@ -39,7 +39,7 @@ const Business = () => (
         uang. Namun, dengan ratusan kartu kredit yang beredar di pasar.
       </p>
 
-      <Button styles="mt-10" />
+      <Button styles="mt-10 rounded-[10px]" />
     </div>
 
     <div className={`${layout.sectionImg} flex-col`}>

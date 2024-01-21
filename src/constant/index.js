@@ -62,7 +62,7 @@ export const feedback = [
   {
     id: "feedback-1",
     content:
-      "Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.",
+      "Uang hanya alat. Ia dapat membawa Anda ke mana saja yang Anda inginkan, tetapi tidak dapat menggantikan Anda sebagai pengemudi.",
     name: "Herman Jensen",
     title: "Founder & Leader",
     img: people01,
@@ -70,7 +70,7 @@ export const feedback = [
   {
     id: "feedback-2",
     content:
-      "Money makes your life easier. If you're lucky to have it, you're lucky.",
+      "Uang memudahkan hidup Anda. Jika Anda beruntung memiliki uang, Anda beruntung.",
     name: "Steve Mark",
     title: "Founder & Leader",
     img: people02,
@@ -78,7 +78,7 @@ export const feedback = [
   {
     id: "feedback-3",
     content:
-      "It is usually people in the money business, finance, and international trade that are really rich.",
+      "Biasanya orang-orang yang benar-benar kaya adalah mereka di bidang keuangan, bisnis uang, dan perdagangan internasional.",
     name: "Kenn Gallagher",
     title: "Founder & Leader",
     img: people03,
@@ -173,12 +173,12 @@ export const socialMedia = [
   {
     id: "social-media-1",
     icon: instagram,
-    link: "https://www.instagram.com/",
+    link: "https://www.instagram.com/rosyam_dani91/",
   },
   {
     id: "social-media-2",
     icon: facebook,
-    link: "https://www.facebook.com/",
+    link: "https://web.facebook.com/rosam.dany.7?mibextid=rS40aB7S9Ucbxw6v&_rdc=1&_rdr",
   },
   {
     id: "social-media-3",
@@ -188,7 +188,7 @@ export const socialMedia = [
   {
     id: "social-media-4",
     icon: linkedin,
-    link: "https://www.linkedin.com/",
+    link: "https://www.linkedin.com/in/rosyam-dani-064640249?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ",
   },
 ];
 
