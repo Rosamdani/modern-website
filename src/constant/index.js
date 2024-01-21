@@ -18,19 +18,19 @@ import {
 export const navLinks = [
   {
     id: "home",
-    title: "Home",
+    title: "Beranda",
   },
   {
     id: "features",
-    title: "Features",
+    title: "Fitur",
   },
   {
     id: "product",
-    title: "Product",
+    title: "Produk",
   },
   {
     id: "clients",
-    title: "Clients",
+    title: "Klien",
   },
 ];
 
@@ -38,23 +38,23 @@ export const features = [
   {
     id: "feature-1",
     icon: star,
-    title: "Rewards",
+    title: "Imbalan",
     content:
-      "The best credit cards offer some tantalizing combinations of promotions and prizes",
+      "Kartu kredit terbaik menawarkan kombinasi promosi dan hadiah yang menggiurkan.",
   },
   {
     id: "feature-2",
     icon: shield,
-    title: "100% Secured",
+    title: "100% Aman",
     content:
-      "We take proactive steps make sure your information and transactions are secure.",
+      "Kami mengambil langkah-langkah proaktif untuk memastikan informasi dan transaksi Anda aman.",
   },
   {
     id: "feature-3",
     icon: send,
-    title: "Balance Transfer",
+    title: "Transfer Saldo",
     content:
-      "A balance transfer credit card can save you a lot of money in interest charges.",
+      "Kartu kredit transfer saldo dapat menghemat banyak uang dari biaya bunga.",
   },
 ];
 
@@ -88,18 +88,18 @@ export const feedback = [
 export const stats = [
   {
     id: "stats-1",
-    title: "User Active",
+    title: "Pengguna Aktif",
     value: "3800+",
   },
   {
     id: "stats-2",
-    title: "Trusted by Company",
+    title: "Dipercayai oleh perusahaan",
     value: "230+",
   },
   {
     id: "stats-3",
-    title: "Transaction",
-    value: "$230M+",
+    title: "Transaksi",
+    value: " Rp3,220M+",
   },
 ];
 
